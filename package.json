@@ -1,0 +1,8 @@
+{
+  "name": "memoized-functions-using-reselect-demo",
+  "version": "1.0.0",
+  "author": "Anass Daoudi",
+  "dependencies": {
+    "reselect": "^4.0.0"
+  }
+}
